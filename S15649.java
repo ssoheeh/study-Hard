@@ -4,6 +4,9 @@ import java.io.*;
 import java.math.BigInteger;
 import java.util.*;
 
+//백트래킹 문제는 아직 약한 것 같다.
+//알고리즘 보고 겨우 품
+//계속 연습해봐야할 듯
 
 public class S15649 {
 	public static int[] arr;
@@ -43,3 +46,4 @@ public class S15649 {
 	}
 
 }
+
