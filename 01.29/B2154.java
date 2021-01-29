@@ -3,6 +3,7 @@ package Silver;
 import java.io.*;
 import java.util.*;
 
+//반복문 안에서 확인계속 -> 메모리 
 
 public class Main {
 	public static void main(String[] args) throws IOException{
